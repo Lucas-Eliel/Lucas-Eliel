@@ -28,7 +28,7 @@
 <a href="https://instagram.com/lucas_eliel_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-LucasEliel-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://twitter.com/LucasEliel" target="_blank">
+<a href="https://twitter.com/LucasEliel13" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LucasEliel-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 </p>
