@@ -32,9 +32,9 @@
 <a href="#My links">My links</a> 
  
 
-[![button](https://1000marcas.net/wp-content/uploads/2022/04/Linktree-Logo.jpg)](https://linktr.ee/elieltech)
-
-<img align="left" height="200em" src="https://1000marcas.net/wp-content/uploads/2022/04/Linktree-Logo.jpg"/>
+<a href="https://linktr.ee/elieltech">
+     <img align="left" height="200em" src="https://1000marcas.net/wp-content/uploads/2022/04/Linktree-Logo.jpg"/>
+</a>
  
 <br><br>
 <section class="anime" id="About">
