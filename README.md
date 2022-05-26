@@ -33,8 +33,8 @@
  
 
 <a href="https://linktr.ee/elieltech">
-      <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
-</a> 
+      <img src="https://img.shields.io/twitter/url?label=Linktree&logo=Linktree&logoColor=green&style=social&url=https%3A%2F%2Flinktr.ee%2Felieltech"/>
+</a>
  
 <br><br>
 <section class="anime" id="About">
