@@ -24,16 +24,18 @@
      <li><a href="#Tecnologies">Technologies</a></li>
      <li><a href="#My links">My links</a></li>
 <br><br>
-
+<a href="#About">
+      <img src="https://img.shields.io/badge/-About-blue"/>
+</a>
+     
+     
 <p align="center">
 <a href="#About">About</a> |
 <a href="#Skills">Skills</a> |
 <a href="#Tecnologies">Technologies</a> |
 <a href="#My links">My links</a> 
 
-<a href="#About">
-      <img src="https://img.shields.io/twitter/url?label=Linktree&logo=Linktree&logoColor=green&style=social&url=https%3A%2F%2Flinktr.ee%2Felieltech"/>
-</a>
+
  
 <br><br>
 <section class="anime" id="About">
