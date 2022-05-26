@@ -31,7 +31,7 @@
 <a href="#Tecnologies">Technologies</a> |
 <a href="#My links">My links</a> 
  
-<a href="https://linktr.ee/elieltech">Button</a>
+<a href="https://linktr.ee/elieltech" style="color:red;">Button</a>
  
  
  
