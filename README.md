@@ -18,11 +18,11 @@
   <body>
    
 <br><br>
-<p <a href="#About">
-      <img src="https://img.shields.io/badge/-About-blue"/>/p>
-<p</a>
+<a href="#About">
+      <img src="https://img.shields.io/badge/-About-blue"/>
+</a>
 <a href="#Skills">
-      <img src="https://img.shields.io/badge/-Skills-green"/>/p>
+      <img src="https://img.shields.io/badge/-Skills-green"/>
 </a>
    
 </a>
