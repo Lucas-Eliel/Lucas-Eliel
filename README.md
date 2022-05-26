@@ -69,19 +69,6 @@
 
 <p align="left" style="background:blue">
  
-</a>
-<a href="https://linktr.ee/elieltech">Linktree</a>
-  <img align="center" src="https://img.shields.io/badge/-LucasEliel-05122A?style=flat&logo=Linktree" alt="Linktree"/>  
-</a>
-</p>
-
-      
-</a>
-<a href="https://linktr.ee/elieltech">Linktree</a>
-  <img align="center" src="https://img.shields.io/twitter/url?label=Linktree&logo=Linktree&logoColor=green&style=social&url=https%3A%2F%2Flinktr.ee%2Felieltech" alt="Linktree"/>  
-</a>
-</p>
-
 
 
 <!--
