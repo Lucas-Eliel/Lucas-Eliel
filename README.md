@@ -31,10 +31,8 @@
 <a href="#Tecnologies">Technologies</a> |
 <a href="#My links">My links</a> 
  
+<a href="https://linktr.ee/elieltech">Button</a>
  
- <a href="#About">About</a>
- 
- <img href="https://linktr.ee/elieltech">
  
  
  [create issue](https://github.com/user/repository/issues/new)
