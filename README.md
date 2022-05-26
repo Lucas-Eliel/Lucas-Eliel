@@ -1,11 +1,11 @@
 
 <img align="top" height="200em" src="Eliel.gif"/>
 
+<br><br>
+
 <p align="center">
 🚧 Projeto em Construção 🚧
 
-
-  
 <br><br>
 
 <p align="center">
@@ -14,9 +14,7 @@
 <a href="#Technologies">Technologies</a> |
 <a href="#My links">My links</a> 
  
-  
 <br><br>
-
 
 # About 🧔
 
@@ -28,10 +26,8 @@
 <p>- I working as tech lead at ZUP Innovation;</p>
 <p>- I'm finishing my MBA in software engineering at FIAP;</p>
 <p>- I have the following skills: micro services, Java ( Springboot ), AWS ( SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL), Relational and non-relational databases, PubSub ( Kafka ), Queues ( SQS ), Docker, Agile Methodology ( Scrum ) and many other technologies.</p>
- 
- 
+  
 <br><br>
-
 
 # Languages used by me 💻
 
@@ -39,13 +35,11 @@
 
 <br><br>
 
-
 # Technologies 👨🏻‍💻
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot)&nbsp;![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=Maven)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate3&logoColor=1572B6)&nbsp;![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JWT)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=RabbitMQ)&nbsp;![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;![AWSL](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
 
 <br><br>
-
 
 # My links 🔗
 
