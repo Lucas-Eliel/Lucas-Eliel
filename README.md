@@ -75,7 +75,7 @@
 
 <section class="anime" id="My links">
  <br><br>
- <p><h1 align="left">Mylinks 🔗</h1></p>
+ <p><h1 align="left">My links 🔗</h1></p>
 <br><br>
  
  <a href="https://linktr.ee/elieltech">Linktree</a>
