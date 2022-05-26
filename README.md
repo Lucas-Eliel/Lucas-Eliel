@@ -31,6 +31,15 @@
 <a href="#Tecnologies">Technologies</a> |
 <a href="#My links">My links</a> 
  
+ 
+ 
+ 
+ 
+ [create issue](https://github.com/user/repository/issues/new)
+ 
+ 
+ 
+ 
 <br><br>
 <section class="anime" id="About">
  <br><br>
@@ -78,7 +87,7 @@
  <p><h1 align="left">My links 🔗</h1></p>
 <br><br>
  
- <a href="https://linktr.ee/elieltech">Linktree</a>
+<a href="https://linktr.ee/elieltech">Linktree</a>
 
 <p align="left" style="background:blue">
  
