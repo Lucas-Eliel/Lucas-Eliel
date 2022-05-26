@@ -24,16 +24,17 @@
 <a href="#Skills">
       <img src="https://img.shields.io/badge/-Skills-green"/>
 </a>
-          
-     
-<p align="center">
-<a href="#About">About</a> |
-<a href="#Skills">Skills</a> |
-<a href="#Tecnologies">Technologies</a> |
-<a href="#My links">My links</a> 
+   
+</a>
+<a href="#Tecnologies">
+      <img src="https://img.shields.io/badge/-Tecnologies-red"/>
+</a>
+        
+ </a>
+<a href="#My links">
+      <img src="https://img.shields.io/badge/-My links-orange"/>
+</a>
 
-
- 
 <br><br>
 <section class="anime" id="About">
  <br><br>
