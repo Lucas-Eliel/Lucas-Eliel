@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="#About">About</a> |
-<a href="#Languages used by me">Languages used by me</a> |
+<a href="#Skills">Skills</a> |
 <a href="#Technologies">Technologies</a> |
 <a href="#My links">My links</a> 
  
@@ -25,13 +25,19 @@
 <p>- I live in Brazil;</p>
 <p>- I working as tech lead at ZUP Innovation;</p>
 <p>- I'm finishing my MBA in software engineering at FIAP;</p>
-<p>- I have the following skills: micro services, Java ( Springboot ), AWS ( SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL), Relational and non-relational databases, PubSub ( Kafka ), Queues ( SQS ), Docker, Agile Methodology ( Scrum ) and many other technologies.</p>
-  
+
 <br><br>
 
-# Languages used by me 💻
+# Skills 💻
 
-<p>- 💻 Skills: Micro services, Java (Springboot), AWS (SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL), relational and non-relational databases, PubSub (Kafka), Queues (SQS), Docker, Agile Methodology (Scrum) and many other technologies.<p/>
+<p>-Micro services;<p/>
+<p>-Java (Springboot);
+<p>-AWS (SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL);</p>
+<p>-relational and non-relational databases;
+<p>-PubSub (Kafka);</p>
+<p>-Queues (SQS);</p>
+<p>-Docker;</p>
+<p>-Agile Methodology (Scrum) and many other technologies.<p/>
 
 <br><br>
 
