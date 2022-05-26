@@ -9,16 +9,16 @@
 <br><br>
 
 <p align="center">
-<a href="#Sobre">Sobre</a> |
-<a href="#Linguagens Utilizadas">Linguagens Utilizadas</a> |
-<a href="#Tecnologias">Tecnologias</a> |
-<a href="#Contato">Contato</a> 
+<a href="#About">About</a> |
+<a href="#Languages used by me">Languages used by me</a> |
+<a href="#Technologies">Technologies</a> |
+<a href="#My links">My links</a> 
  
   
 <br><br>
 
 
-# Sobre 🧔
+# About 🧔
 
 <p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Eliel</h1></p>
 
@@ -33,21 +33,21 @@
 <br><br>
 
 
-# Linguagens Utilizadas 💻
+# Languages used by me 💻
 
 <p>- 💻 Skills: Micro services, Java (Springboot), AWS (SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL), relational and non-relational databases, PubSub (Kafka), Queues (SQS), Docker, Agile Methodology (Scrum) and many other technologies.<p/>
 
 <br><br>
 
 
-# Tecnologias 👨🏻‍💻
+# Technologies 👨🏻‍💻
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot)&nbsp;![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=Maven)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate3&logoColor=1572B6)&nbsp;![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JWT)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=RabbitMQ)&nbsp;![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;![AWSL](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
 
 <br><br>
 
 
-# Contato 🔗
+# My links 🔗
 
 <p align="left" style="background:blue">
   </a>
