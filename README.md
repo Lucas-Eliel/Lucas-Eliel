@@ -7,6 +7,22 @@
 🚧 Projeto em Construção 🚧
 
 <br><br>
+ 
+ <!DOCTYPE html>
+ <html>
+  <head>
+   <meta charset="utf-8">
+   <link rel="stylesheet" type="text/css" href="css/style.css">
+   <meta name="viewport" content= "widh=device-width, initial-scale=1">
+ <head>
+  <body>
+   
+   <nav>
+    <ul>
+     <li><a href="#About">About</a></li>
+     <li><a href="#Skills">Skills</a></li>
+     <li><a href="#Technologies">Technologies</a></li>
+     <li><a href="#My_links">My_links</a></li>
 
 <p align="center">
 <a href="#About">About</a> |
