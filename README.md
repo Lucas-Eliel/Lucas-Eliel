@@ -17,15 +17,6 @@
  <head>
   <body>
    
-   $('nav a').click(fuction(e){
-   e.preventDefault();
-   var id= $(this).attr('href');
-       targetOffset = $(id).offset().top;
-   $('html, body').animate({
-   scrollTop: targetOffset
-   }, 500);
-   });
-   
    <nav>
     <ul>
      <li><a href="#About">About</a></li>
@@ -73,6 +64,8 @@
 <br><br>
 
 <section class="anime" id="My_links"> 🔗
+ 
+ <a href="https://linktr.ee/elieltech">Linktree</a>
 
 <p align="left" style="background:blue">
   </a>
