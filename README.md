@@ -17,6 +17,15 @@
  <head>
   <body>
    
+   $('nav a').click(fuction(e){
+   e.preventDefault();
+   var id= $(this).attr('href');
+       targetOffset = $(id).offset().top;
+   $('html, body').animate({
+   scrollTop: targetOffset
+   }, 500);
+   });
+   
    <nav>
     <ul>
      <li><a href="#About">About</a></li>
