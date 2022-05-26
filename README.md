@@ -68,18 +68,19 @@
  <a href="https://linktr.ee/elieltech">Linktree</a>
 
 <p align="left" style="background:blue">
-  </a>
-<a href="https://linkedin.com/in/lucas-eliel-da-silva/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LucasEliel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+ 
 </a>
-<a href="https://instagram.com/lucas_eliel_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-LucasEliel-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://twitter.com/LucasEliel13" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LucasEliel-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://linktr.ee/elieltech">Linktree</a>
+  <img align="center" src="https://img.shields.io/badge/-LucasEliel-05122A?style=flat&logo=Linktree" alt="Linktree"/>  
 </a>
 </p>
 
+      
+</a>
+<a href="https://linktr.ee/elieltech">Linktree</a>
+  <img align="center" src="https://img.shields.io/twitter/url?label=Linktree&logo=Linktree&logoColor=green&style=social&url=https%3A%2F%2Flinktr.ee%2Felieltech" alt="Linktree"/>  
+</a>
+</p>
 
 
 
