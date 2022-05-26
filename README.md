@@ -34,7 +34,7 @@
  
  <a href="#About">About</a>
  
- <img href="https://linktr.ee/elieltech" src="https://img.shields.io/twitter/url?label=Linktree&logo=Linktree&logoColor=green&style=social&url=https%3A%2F%2Flinktr.ee%2Felieltech">
+ <img href="https://linktr.ee/elieltech">
  
  
  [create issue](https://github.com/user/repository/issues/new)
