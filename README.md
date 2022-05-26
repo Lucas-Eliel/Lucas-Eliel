@@ -49,14 +49,14 @@
 <section class="anime" id="Skills">
  <p><h1 align="left">Skills 💻</h1></p>
 
-<p>-Micro services;<p/>
-<p>-Java (Springboot);
-<p>-AWS (SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL);</p>
-<p>-relational and non-relational databases;
-<p>-PubSub (Kafka);</p>
-<p>-Queues (SQS);</p>
-<p>-Docker;</p>
-<p>-Agile Methodology (Scrum) and many other technologies.<p/>
+ <li>Micro services;</li>
+ <li>Java (Springboot);</li>
+ <li>AWS (SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL);</li>
+ <li>Relational and non-relational databases;</li>
+ <li>PubSub (Kafka);</li>
+ <li>Rows (SQS);</li>
+ <li>Docker;</li>
+ <li>Agile Methodology (Scrum) and many other technologies.</li>
 
 <br><br>
 
