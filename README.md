@@ -72,10 +72,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot)&nbsp;![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=Maven)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate3&logoColor=1572B6)&nbsp;![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JWT)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=RabbitMQ)&nbsp;![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;![AWSL](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
 
 <br><br>
-<a href="https://linktr.ee/elieltech">
-      <img src="https://img.shields.io/twitter/url?label=Linktree&logo=Linktree&logoColor=green&style=social&url=https%3A%2F%2Flinktr.ee%2Felieltech"/>
-</a>
-
 
 <section class="anime" id="My links">
  <br><br>
