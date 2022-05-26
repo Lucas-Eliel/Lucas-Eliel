@@ -17,17 +17,14 @@
  <head>
   <body>
    
-   <nav>
-    <ul>
-     <li><a href="#About">About</a></li>
-     <li><a href="#Skills">Skills</a></li>
-     <li><a href="#Tecnologies">Technologies</a></li>
-     <li><a href="#My links">My links</a></li>
 <br><br>
 <a href="#About">
       <img src="https://img.shields.io/badge/-About-blue"/>
 </a>
-     
+<a href="#Skills">
+      <img src="https://img.shields.io/badge/-Skills-green"/>
+</a>
+          
      
 <p align="center">
 <a href="#About">About</a> |
