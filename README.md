@@ -32,7 +32,9 @@
 <a href="#My links">My links</a> 
  
  
- <img alt="Twitter URL" href="https://linktr.ee/elieltech" src="https://img.shields.io/twitter/url?label=Linktree&logo=Linktree&logoColor=green&style=social&url=https%3A%2F%2Flinktr.ee%2Felieltech">
+ <a href="#About">About</a>
+ 
+ <img href="https://linktr.ee/elieltech" src="https://img.shields.io/twitter/url?label=Linktree&logo=Linktree&logoColor=green&style=social&url=https%3A%2F%2Flinktr.ee%2Felieltech">
  
  
  [create issue](https://github.com/user/repository/issues/new)
