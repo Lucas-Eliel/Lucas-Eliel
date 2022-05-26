@@ -31,8 +31,10 @@
 <a href="#My_links">My links</a> 
  
 <br><br>
+ 
+<section class="anime" id="About">
+ <p><h1 align="left">About_🧔</h1></p>
 
-<section class="anime" id="About">  About 🧔
 
 <p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Eliel</h1></p>
 
