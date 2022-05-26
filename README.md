@@ -32,7 +32,7 @@
 <a href="#My links">My links</a> 
  
  
-[Click me](http://www.google.com){: .btn}
+<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
  
  
  [create issue](https://github.com/user/repository/issues/new)
