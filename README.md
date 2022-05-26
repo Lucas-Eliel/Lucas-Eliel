@@ -33,7 +33,7 @@
  
 
 <a href="https://linktr.ee/elieltech">
-     <img align="left" height="50em" src="https://1000marcas.net/wp-content/uploads/2022/04/Linktree-Logo.jpg" style="width:42px;height:42px;"/>
+     <img align="left" height="50em" src="https://1000marcas.net/wp-content/uploads/2022/04/Linktree-Logo.jpg" style="border-radius:25px;"/>
 </a> 
  
 <br><br>
