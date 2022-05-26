@@ -28,7 +28,7 @@
 <a href="#About">About</a> |
 <a href="#Skills">Skills</a> |
 <a href="#Technologies">Technologies</a> |
-<a href="#My_links">My links</a> 
+<a href="#My links">My links</a> 
  
 <br><br>
  
