@@ -22,14 +22,14 @@
      <li><a href="#About">About</a></li>
      <li><a href="#Skills">Skills</a></li>
      <li><a href="#Tecnologies">Technologies</a></li>
-     <li><a href="#My_links">My links</a></li>
+     <li><a href="#My links">My links</a></li>
 <br><br>
 
 <p align="center">
 <a href="#About">About</a> |
 <a href="#Skills">Skills</a> |
 <a href="#Tecnologies">Technologies</a> |
-<a href="#My_links">My links</a> 
+<a href="#My links">My links</a> 
  
 <br><br>
 <section class="anime" id="About">
@@ -73,7 +73,7 @@
 <br><br>
 
 
-<section class="anime" id="My_links">
+<section class="anime" id="My links">
  <br><br>
  <p><h1 align="left">Mylinks 🔗</h1></p>
 <br><br>
