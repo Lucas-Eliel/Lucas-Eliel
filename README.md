@@ -22,7 +22,7 @@
      <li><a href="#About">About</a></li>
      <li><a href="#Skills">Skills</a></li>
      <li><a href="#Technologies">Technologies</a></li>
-     <li><a href="#My_links">My_links</a></li>
+     <li><a href="#My links">My_links</a></li>
 
 <p align="center">
 <a href="#About">About</a> |
