@@ -5,20 +5,29 @@
 🚧 Projeto em Construção 🚧
 
 
+  
+<br><br>
+
 <p align="center">
 <a href="#Sobre">Sobre</a> |
 <a href="#Linguagens Utilizadas">Linguagens Utilizadas</a> |
 <a href="#Tecnologias">Tecnologias</a> |
 <a href="#Contato">Contato</a> 
+ 
   
+<br><br>
+
 
 # Sobre 🧔
 
 <p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Eliel</h1></p>
 
-<p>- 🚀 Tech Lead at Zup Innovation</p>
-
-<p>- 🎓 MBA in Software Engineering at FIAP<p/>
+<p align="left">
+<p>- I'm 25 years old;</p>
+<p>- I live in Brazil;</p>
+<p>- I work as a tech lead at ZUP Innovation;</p>
+<p>- I'm finishing my MBA in software engineering at FIAP;</p>
+<p>- I have the following skills: micro services, Java ( Springboot ), AWS ( SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL), Relational and non-relational databases, PubSub ( Kafka ), Queues ( SQS ), Docker, Agile Methodology ( Scrum ) and many other technologies.</p>
  
  
 <br><br>
