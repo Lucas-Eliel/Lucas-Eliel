@@ -23,6 +23,7 @@
      <li><a href="#Skills">Skills</a></li>
      <li><a href="#Tecnologies">Technologies</a></li>
      <li><a href="#My_links">My links</a></li>
+<br><br>
 
 <p align="center">
 <a href="#About">About</a> |
@@ -31,7 +32,6 @@
 <a href="#My_links">My links</a> 
  
 <br><br>
- 
 <section class="anime" id="About">
  <br><br>
  <p><h1 align="left">About 🧔</h1></p>
