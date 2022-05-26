@@ -21,13 +21,13 @@
     <ul>
      <li><a href="#About">About</a></li>
      <li><a href="#Skills">Skills</a></li>
-     <li><a href="#Technologies">Technologies</a></li>
+     <li><a href="#Tecnologies">Technologies</a></li>
      <li><a href="#My_links">My links</a></li>
 
 <p align="center">
 <a href="#About">About</a> |
 <a href="#Skills">Skills</a> |
-<a href="#Technologies">Technologies</a> |
+<a href="#Tecnologies">Technologies</a> |
 <a href="#My_links">My links</a> 
  
 <br><br>
