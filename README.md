@@ -32,8 +32,8 @@
 <a href="#My links">My links</a> 
  
 
-<a style="border-radius:25px;" href="https://linktr.ee/elieltech">
-     <img align="left" height="50em" src="https://1000marcas.net/wp-content/uploads/2022/04/Linktree-Logo.jpg" style="border-radius:25px;"/>
+<a style="border-radius:255px;" href="https://linktr.ee/elieltech">
+     <img align="left" height="50em" src="https://1000marcas.net/wp-content/uploads/2022/04/Linktree-Logo.jpg" style="border-radius:225px;"/>
 </a> 
  
 <br><br>
