@@ -73,7 +73,7 @@
 <br><br>
 
 
-<section class="anime" id="Mylinks">
+<section class="anime" id="My_links">
  <br><br>
  <p><h1 align="left">Mylinks 🔗</h1></p>
 <br><br>
