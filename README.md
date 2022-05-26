@@ -46,7 +46,8 @@
 
 <br><br>
 
-<section class="anime" id="Skills">  Skills 💻
+<section class="anime" id="Skills">
+ <p><h1 align="left">Skills 💻</h1></p>
 
 <p>-Micro services;<p/>
 <p>-Java (Springboot);
@@ -59,13 +60,17 @@
 
 <br><br>
 
-<section class="anime" id="Technologies">  Tecnologies 👨🏻‍💻
+<section class="anime" id="Tecnologies">
+ <p><h1 align="left">Tecnologies 👨🏻‍💻</h1></p>
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot)&nbsp;![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=Maven)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate3&logoColor=1572B6)&nbsp;![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JWT)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=RabbitMQ)&nbsp;![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;![AWSL](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
 
 <br><br>
 
-<section class="anime" id="My_links">  Mylinks 🔗
+
+<section class="anime" id="Mylinks">
+ <p><h1 align="left">Mylinks 🔗</h1></p>
+
  
  <a href="https://linktr.ee/elieltech">Linktree</a>
 
