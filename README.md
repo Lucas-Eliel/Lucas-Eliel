@@ -25,7 +25,7 @@
 <p align="left">
 <p>- I'm 25 years old;</p>
 <p>- I live in Brazil;</p>
-<p>- I work as a tech lead at ZUP Innovation;</p>
+<p>- I working as tech lead at ZUP Innovation;</p>
 <p>- I'm finishing my MBA in software engineering at FIAP;</p>
 <p>- I have the following skills: micro services, Java ( Springboot ), AWS ( SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL), Relational and non-relational databases, PubSub ( Kafka ), Queues ( SQS ), Docker, Agile Methodology ( Scrum ) and many other technologies.</p>
  
