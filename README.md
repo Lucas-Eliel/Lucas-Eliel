@@ -48,10 +48,10 @@
 <p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Eliel</h1></p>
 
 <p align="left">
-<p>- I'm 25 years old;</p>
-<p>- I live in Brazil;</p>
-<p>- I working as tech lead at ZUP Innovation;</p>
-<p>- I'm finishing my MBA in software engineering at FIAP;</p>
+<li>I'm 25 years old;</li>
+<li>I live in Brazil;</li>
+<li>I working as tech lead at ZUP Innovation;</li>
+<li>I'm finishing my MBA in software engineering at FIAP;</li>
 
 <br><br>
 
@@ -83,14 +83,14 @@
  <p><h1 align="center">Experience</h1></p>
 <br><br>
     
-13/04/22 - Tech Lead (ZUP Innovation)
-08/09/21 - Sênior Software Engineer (ZUP Innovation)
-01/02/21 - Pleno Software Engineer (ZUP Innovation)
-19/06/20 - Software Engineer (ZUP Innovation)
-05/01/19 - Desenvolvedor ERP (Multitec)
-10/08/18 - Estágio em Engenharia Elétrica (Stage Telecom)
-20/01/18 - Custom Desenvolvedor ERP (LES)
-04/04/16 - Desenvolvedor BI (LCR)
+ <li>13/04/22 - Tech Lead (ZUP Innovation)</li>
+ <li>08/09/21 - Sênior Software Engineer (ZUP Innovation)</li>
+ <li>01/02/21 - Pleno Software Engineer (ZUP Innovation)</li>
+ <li>19/06/20 - Software Engineer (ZUP Innovation)</li>
+ <li>05/01/19 - Desenvolvedor ERP (Multitec)</li>
+ <li>10/08/18 - Estágio em Engenharia Elétrica (Stage Telecom)</li>
+ <li>20/01/18 - Custom Desenvolvedor ERP (LES)</li>
+ <li>04/04/16 - Desenvolvedor BI (LCR)</li>
 
 <br><br>
 
