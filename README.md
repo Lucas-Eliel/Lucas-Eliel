@@ -38,7 +38,7 @@
 <br><br>
 <section class="anime" id="About">
  <br><br>
- <p><h1 align="left">About 🧔</h1></p>
+ <p><h1 align="center">About 🧔</h1></p>
 <br><br>
 
 <p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Eliel</h1></p>
@@ -53,7 +53,7 @@
 
 <section class="anime" id="Skills">
  <br><br>
- <p><h1 align="left">Skills 💻</h1></p>
+ <p><h1 align="center">Skills 💻</h1></p>
     <br><br>
 
  <li>Micro services;</li>
@@ -69,7 +69,7 @@
 
 <section class="anime" id="Tecnologies">
  <br><br>
- <p><h1 align="left">Tecnologies 👨🏻‍💻</h1></p>
+ <p><h1 align="center">Tecnologies 👨🏻‍💻</h1></p>
 <br><br>
     
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot)&nbsp;![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=Maven)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate3&logoColor=1572B6)&nbsp;![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JWT)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=RabbitMQ)&nbsp;![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;![AWSL](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
@@ -78,7 +78,7 @@
 
 <section class="anime" id="My links">
  <br><br>
- <p><h1 align="left">My links 🔗</h1></p>
+ <p><h1 align="center">My links 🔗</h1></p>
 <br><br>
  
  <a href="https://linktr.ee/elieltech">
