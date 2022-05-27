@@ -50,8 +50,10 @@
 <p align="left">
 <li>I'm 25 years old;</li>
 <li>I live in Brazil;</li>
-<li>I working as tech lead at ZUP Innovation;</li>
-<li>I'm finishing my MBA in software engineering at FIAP;</li>
+<li>I working as tech lead at <a href="https://www.zup.com.br/"> <img src="https://img.shields.io/badge/-ZUP-darkblue"/>
+</a>
+;</li>
+<li>I'm finishing my MBA in Software Engineering at FIAP;</li>
 
 <br><br>
 
@@ -83,7 +85,7 @@
  <p><h1 align="center">Experience</h1></p>
 <br><br>
     
- <li>13/04/22 - Tech Lead (ZUP Innovation)</li>
+ <li>13/04/22 - Tech Lead (ZUP Innovation);</li>
  <li>08/09/21 - Sênior Software Engineer (ZUP Innovation)</li>
  <li>01/02/21 - Pleno Software Engineer (ZUP Innovation)</li>
  <li>19/06/20 - Software Engineer (ZUP Innovation)</li>
