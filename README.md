@@ -23,6 +23,10 @@
 <a href="#About">
       <img src="https://img.shields.io/badge/-About-red"/>
 </a>
+   <p align="center">
+<a href="#Curiositie">
+      <img src="https://img.shields.io/badge/-Curiositie-orange"/>
+</a>
 <a href="#Skills">
       <img src="https://img.shields.io/badge/-Skills-yellow"/>
 </a>
@@ -49,6 +53,13 @@
 <p>- I working as tech lead at ZUP Innovation;</p>
 <p>- I'm finishing my MBA in software engineering at FIAP;</p>
 
+<br><br>
+
+ <br><br>
+ <p><h1 align="center">Curiositie 🤔</h1></p>
+<br><br>
+<p align="left">
+<p> I like to fish and play soccer in my spare time.</p>
 <br><br>
 
 <section class="anime" id="Skills">
