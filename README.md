@@ -24,8 +24,8 @@
       <img src="https://img.shields.io/badge/-About-red"/>
 </a>
    <p align="center">
-<a href="#Curiositie">
-      <img src="https://img.shields.io/badge/-Curiositie-orange"/>
+<a href="#Curiosity">
+      <img src="https://img.shields.io/badge/-Curiosity-orange"/>
 </a>
 <a href="#Skills">
       <img src="https://img.shields.io/badge/-Skills-yellow"/>
@@ -56,7 +56,7 @@
 <br><br>
 
  <br><br>
- <p><h1 align="center">Curiositie 🤔</h1></p>
+ <p><h1 align="center">Curiosity 🤔</h1></p>
 <br><br>
 <p align="left">
 <p> I like to fish and play soccer in my spare time.</p>
