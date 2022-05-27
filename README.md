@@ -55,10 +55,10 @@
 
 <br><br>
 
+<section class="anime" id="Curiosity">
  <br><br>
  <p><h1 align="center">Curiosity 🤔</h1></p>
-<br><br>
-<p align="left">
+    <br><br>
 <p> I like to fish and play soccer in my spare time.</p>
 <br><br>
 
