@@ -19,6 +19,7 @@
    
 <br><br>
 <hr size="1" width="100%" align="center" noshade>
+   <p align="center">
 <a href="#About">
       <img src="https://img.shields.io/badge/-About-red"/>
 </a>
@@ -33,6 +34,7 @@
 <a href="#My links">
       <img src="https://img.shields.io/badge/-My links-blue"/>
  </a>
+   </p>
 <br><br>
 <section class="anime" id="About">
  <br><br>
