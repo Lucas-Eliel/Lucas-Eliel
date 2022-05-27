@@ -18,23 +18,21 @@
   <body>
    
 <br><br>
+<hr size="1" width="100%" align="center" noshade>
 <a href="#About">
       <img src="https://img.shields.io/badge/-About-red"/>
 </a>
 <a href="#Skills">
       <img src="https://img.shields.io/badge/-Skills-yellow"/>
 </a>
-   
-</a>
+ </a>
 <a href="#Tecnologies">
       <img src="https://img.shields.io/badge/-Tecnologies-green"/>
-</a>
-        
+ </a>    
  </a>
 <a href="#My links">
       <img src="https://img.shields.io/badge/-My links-blue"/>
-</a>
-
+ </a>
 <br><br>
 <section class="anime" id="About">
  <br><br>
