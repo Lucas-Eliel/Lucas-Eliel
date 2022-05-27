@@ -68,14 +68,19 @@
  <p><h1 align="center">Skills 👨🏻‍💻</h1></p>
     <br><br>
 
- <li>Micro services;</li>
+ <li>Microservices;</li>
  <li>Java (Springboot);</li>
- <li>AWS (SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL);</li>
+ <li>AWS (SQS, ECS, EC2, CodePipeline, CloudFormation, CloudWatch, VPC, APIGateway, DynamoDb, MySQL, etc);</li>
  <li>Relational and non-relational databases;</li>
  <li>PubSub (Kafka);</li>
- <li>Rows (SQS);</li>
+ <li>Queues (SQS);</li>
  <li>Docker;</li>
- <li>Agile Methodology (Scrum) and many other technologies.</li>
+ <li>Python, Javascript, Angular, HTML, CSS, Ionic, Vue.JS;</li>
+ <li>Observability with Grafana, Splunk, CloudWatch;</li>
+ <li>JPA, Hibernate, JDBC (Database);</li>
+ <li>Hadoop, Data Warehouse, Data lake;</li>
+ <li>Agile Methodology, Jira, Confluence (Scrum);</li>
+ <li>And many other technologies.</li>
 
 <br><br>
 
