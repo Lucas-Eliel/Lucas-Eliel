@@ -19,20 +19,20 @@
    
 <br><br>
 <a href="#About">
-      <img src="https://img.shields.io/badge/-About-blue"/>
+      <img src="https://img.shields.io/badge/-About-red"/>
 </a>
 <a href="#Skills">
-      <img src="https://img.shields.io/badge/-Skills-green"/>
+      <img src="https://img.shields.io/badge/-Skills-yellow"/>
 </a>
    
 </a>
 <a href="#Tecnologies">
-      <img src="https://img.shields.io/badge/-Tecnologies-red"/>
+      <img src="https://img.shields.io/badge/-Tecnologies-green"/>
 </a>
         
  </a>
 <a href="#My links">
-      <img src="https://img.shields.io/badge/-My links-orange"/>
+      <img src="https://img.shields.io/badge/-My links-blue"/>
 </a>
 
 <br><br>
