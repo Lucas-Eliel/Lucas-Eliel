@@ -59,7 +59,7 @@
  <br><br>
  <p><h1 align="center">Curiosity 🤔</h1></p>
     <br><br>
-<p> I like to fishing and play soccer in my spare time.</p>
+<li>I like to fishing and play soccer in my spare time.</li>
 <br><br>
 
 <section class="anime" id="Skills">
