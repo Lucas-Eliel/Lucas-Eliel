@@ -1,5 +1,5 @@
 
-<img align="center" height="300em" src="Eliel.gif"/>
+<img align="center" height="250em" src="Eliel.gif"/>
 
 <br><br>
 
@@ -45,7 +45,7 @@
  <p><h1 align="center">About 🧔</h1></p>
 <br><br>
 
-<p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="2px">, I'm Lucas Eliel</h1></p>
+<p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, I'm Lucas Eliel</h1></p>
 
 <p align="left">
 <li>I'm 25 years old;</li>
