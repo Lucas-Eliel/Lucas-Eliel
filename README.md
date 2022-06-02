@@ -1,5 +1,5 @@
 
-<img align="top" height="200em" src="Eliel.gif"/>
+<img align="top" height="50em" src="Eliel.gif"/>
 
 <br><br>
 
