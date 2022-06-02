@@ -45,7 +45,7 @@
  <p><h1 align="center">About 🧔</h1></p>
 <br><br>
 
-<p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">, I'm Lucas Eliel</h1></p>
+<p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, I'm Lucas Eliel</h1></p>
 
 <p align="left">
 <li>I'm 25 years old;</li>
