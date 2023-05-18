@@ -50,9 +50,8 @@
 <p align="left">
 <li>I'm 25 years old;</li>
 <li>I live in Brazil;</li>
-<li>I working as tech lead at  <a href="https://www.zup.com.br/"> <img src="https://img.shields.io/badge/-ZUP%20Innovation-darkblue";/></li>
 </a>
-<li>I'm finishing my MBA in Software Engineering at  <a href="https://www.fiap.com.br/"> <img src="https://img.shields.io/badge/-FIAP-fuchsia";/> </li>
+<li>MBA in Software Engineering at  <a href="https://www.fiap.com.br/"> <img src="https://img.shields.io/badge/-FIAP-fuchsia";/> </li>
 
 <br><br>
 
