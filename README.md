@@ -1,5 +1,5 @@
 
-<a href="https://linktr.ee/elieltech/"><img align="center" height="250em" src="Eliel.gif"/></a>
+<a href="https://linktr.ee/elieltech/"><img align="center" height="250em" src="WhatsApp Image 2023-05-31 at 14.01.32.jpeg"/></a>
 
 <br><br>
 
