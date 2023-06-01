@@ -1,6 +1,4 @@
-
-<p align="center">
- <br><br>
+<br><br>
 👇 Acesse meus links 👇
  
 <div align="center">
